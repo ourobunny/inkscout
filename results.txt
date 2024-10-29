@@ -1,0 +1,500 @@
+IP: 108.180.109.195
+Location: Vancouver, Canada
+Product: HP LaserJet MFP M139w
+Organization: TELUS-FIBRE-VANCBC06
+
+IP: 24.207.13.46
+Location: Ladner, Canada
+Product: HP LaserJet MFP M130fw
+Organization: EastLink
+
+IP: 99.228.244.28
+Location: Vaughan, Canada
+Product: HP Color LaserJet MFP E78625
+Organization: Rogers Cable Inc. HNSN
+
+IP: 70.79.165.52
+Location: Vancouver, Canada
+Product: HP LaserJet P1005
+Organization: Shaw Communications Inc.
+
+IP: 142.115.146.23
+Location: Toronto, Canada
+Product: HP LaserJet M607
+Organization: Bell Canada
+
+IP: 50.98.101.39
+Location: Abbotsford, Canada
+Product: HP LaserJet MFP M426fdw
+Organization: TELUS-FIBRE-ABFDBC01
+
+IP: 72.38.39.245
+Location: Burlington, Canada
+Product: HP LaserJet 400 color M451dn
+Organization: Cogeco Cable Canada Inc.
+
+IP: 207.236.122.7
+Location: Saint-Éphrem-de-Beauce, Canada
+Product: HP LaserJet MFP M234sdw
+Organization: Groupe Maskatel
+
+IP: 216.232.248.89
+Location: Vancouver, Canada
+Product: HP LaserJet MFP M139w
+Organization: TELUS-FIBRE-VANCBC07
+
+IP: 50.92.119.165
+Location: Port Coquitlam, Canada
+Product: HP LaserJet Professional M1212nf MFP
+Organization: TELUS-FIBRE-PTCMBC02
+
+IP: 209.169.160.95
+Location: Albanel, Canada
+Product: HP LaserJet MFP M28w
+Organization: Cogeco Connexion inc
+
+IP: 96.30.176.156
+Location: Yarmouth, Canada
+Product: HP LaserJet MFP M426fdw
+Organization: Eastlink HSI
+
+IP: 174.115.171.113
+Location: Russell, Canada
+Product: HP LaserJet MFP M227fdn
+Organization: Rogers Communications Canada Inc.
+
+IP: 24.142.59.10
+Location: Dartmouth, Canada
+Product: HP LaserJet MFP M130nw
+Organization: Eastlink HSI
+
+IP: 142.127.222.232
+Location: Pointe-Claire, Canada
+Product: HP LaserJet MFP M140w
+Organization: Bell Canada
+
+IP: 57.134.68.243
+Location: Coaticook, Canada
+Product: HP LaserJet Professional M1212nf MFP
+Organization: Cogeco Connexion inc
+
+IP: 198.53.165.205
+Location: Fort McMurray, Canada
+Product: HP LaserJet MFP M130fw
+Organization: TELUS Communications Inc.
+
+IP: 173.238.218.0
+Location: Niagara Falls, Canada
+Product: HP LaserJet MFP M234sdw
+Organization: Cogeco Cable Inc.
+
+IP: 207.216.134.213
+Location: Burnaby, Canada
+Product: HP Color LaserJet MFP M277dw
+Organization: TELUS Communications Inc.
+
+IP: 76.11.84.115
+Location: Halifax, Canada
+Product: HP Color LaserJet MFP M283fdw
+Organization: Eastlink HSI
+
+IP: 199.126.42.124
+Location: Edmonton, Canada
+Product: HP LaserJet Professional M1212nf MFP
+Organization: TELUS-FIBRE-EDTNABXM
+
+IP: 173.183.166.120
+Location: Calgary, Canada
+Product: HP LaserJet MFP M234dw
+Organization: TELUS-DSL-EDTNABXM
+
+IP: 68.145.142.97
+Location: Calgary, Canada
+Product: HP LaserJet MFP M130nw
+Organization: Shaw Communications Inc.
+
+IP: 50.98.97.15
+Location: West Kelowna, Canada
+Product: HP LaserJet MFP M227fdw
+Organization: TELUS-FIBRE-LKVHBC01
+
+IP: 104.37.23.196
+Location: Kensington, Canada
+Product: HP LaserJet MFP M234sdw
+Organization: Eastlink HSI
+
+IP: 207.35.188.142
+Location: Willowdale, Canada
+Product: HP LaserJet 400 M401dne
+Organization: Nissin Transport (Canada) Inc
+
+IP: 64.247.145.29
+Location: Yellowknife, Canada
+Product: HP LaserJet Professional M1212nf MFP
+Organization: SSI Micro Ltd.
+
+IP: 67.204.251.50
+Location: Greater Sudbury, Canada
+Product: HP LaserJet Pro M404-M405
+Organization: Persona Communications
+
+IP: 68.148.113.212
+Location: Edmonton, Canada
+Product: HP LaserJet Pro MFP M521dn
+Organization: Shaw Communications Inc.
+
+IP: 216.232.252.80
+Location: Richmond, Canada
+Product: HP LaserJet M209dw
+Organization: TELUS Communications Inc.
+
+IP: 135.19.106.110
+Location: Québec, Canada
+Product: HP LaserJet MFP M527
+Organization: Videotron Ltee
+
+IP: 162.157.121.120
+Location: Edmonton, Canada
+Product: HP Color LaserJet MFP M476dn
+Organization: TELUS-FIBRE-EDTNABXL
+
+IP: 24.89.240.127
+Location: Sydney, Canada
+Product: HP LaserJet MFP M139w
+Organization: Eastlink HSI
+
+IP: 173.181.47.165
+Location: Revelstoke, Canada
+Product: HP PageWide Pro 477dw MFP
+Organization: TELUS-FIBRE-RVSTBC01
+
+IP: 99.225.51.7
+Location: Toronto, Canada
+Product: HP Color LaserJet Pro M453-4
+Organization: Rogers Cable Inc. GLPH2
+
+IP: 142.115.23.8
+Location: Toronto, Canada
+Product: HP LaserJet 600 M602
+Organization: Bell Canada
+
+IP: 209.89.184.98
+Location: Edmonton, Canada
+Product: HP LaserJet MFP M139w
+Organization: TELUS-FIBRE-EDTNABXT
+
+IP: 174.7.14.20
+Location: Richmond, Canada
+Product: HP LaserJet Pro MFP M225dw
+Organization: Shaw Communications Inc.
+
+IP: 23.17.234.174
+Location: Calgary, Canada
+Product: HP LaserJet MFP M234sdw
+Organization: TELUS-FIBRE-CLGRAB49
+
+IP: 24.224.181.161
+Location: Charlottetown, Canada
+Product: HP LaserJet MFP M139w
+Organization: Eastlink HSI
+
+IP: 70.24.126.176
+Location: La Prairie, Canada
+Product: HP LaserJet Professional P 1102w
+Organization: Bell Canada
+
+IP: 69.156.133.166
+Location: Montréal, Canada
+Product: HP LaserJet 400 M401dne
+Organization: Bell Canada
+
+IP: 50.99.121.237
+Location: Calgary, Canada
+Product: HP Color LaserJet MFP M377dw
+Organization: TELUS Communications Inc.
+
+IP: 207.81.72.26
+Location: Port Alberni, Canada
+Product: HP Neverstop Laser MFP 1202nw
+Organization: TELUS-FIBRE-PTAIBC01
+
+IP: 24.157.97.26
+Location: Rockwood, Canada
+Product: HP Color LaserJet Pro M478f-9f
+Organization: Cogeco Cable Canada LP
+
+IP: 50.101.147.22
+Location: Toronto, Canada
+Product: HP LaserJet MFP M28w
+Organization: Bell Canada
+
+IP: 67.68.253.89
+Location: Shawinigan, Canada
+Product: HP Color LaserJet MFP M480
+Organization: Bell DSL Internet Quebec
+
+IP: 142.67.237.161
+Location: Windsor, Canada
+Product: HP LaserJet M203dw
+Organization: Eastlink HSI
+
+IP: 206.116.209.50
+Location: Vancouver, Canada
+Product: HP LaserJet MFP M227fdw
+Organization: TELUS-FIBRE-VANCBC01
+
+IP: 70.28.60.183
+Location: Toronto, Canada
+Product: HP PageWide Pro 577 MFP
+Organization: Bell Canada
+
+IP: 209.89.212.99
+Location: Coaldale, Canada
+Product: HP Color LaserJet MFP M182nw
+Organization: TELUS-DSL-EDTNABXT
+
+IP: 24.207.96.23
+Location: Sechelt, Canada
+Product: HP LaserJet MFP M227fdw
+Organization: EastLink
+
+IP: 75.157.52.33
+Location: Vancouver, Canada
+Product: HP LaserJet MFP M140w
+Organization: TELUS-FIBRE-VANCBC05
+
+IP: 205.206.229.84
+Location: Edmonton, Canada
+Product: HP Color LaserJet MFP M477fnw
+Organization: TELUS-FIBRE-RDDRAB01
+
+IP: 209.52.29.250
+Location: Amqui, Canada
+Product: HP LaserJet MFP M234dw
+Organization: TELUS-FIBRE-AMQUPQXQ
+
+IP: 172.218.124.66
+Location: New Westminster, Canada
+Product: HP LaserJet MFP M130fw
+Organization: TELUS-DSL-VANCBC01
+
+IP: 162.157.205.167
+Location: Edmonton, Canada
+Product: HP LaserJet MFP M140w
+Organization: TELUS-FIBRE-EDTNABXB
+
+IP: 160.32.206.16
+Location: Toronto, Canada
+Product: HP LaserJet M607
+Organization: CIK Telecom INC
+
+IP: 96.63.153.16
+Location: Canora, Canada
+Product: HP LaserJet CP1525nw
+Organization: Access Communications  Co-operative Limited
+
+IP: 99.208.86.122
+Location: Toronto, Canada
+Product: HP LaserJet Pro 4001
+Organization: Rogers Communications Canada Inc.
+
+IP: 173.212.74.119
+Location: Halifax, Canada
+Product: HP LaserJet Pro MFP 4101
+Organization: Eastlink HSI
+
+IP: 24.89.217.148
+Location: Charlottetown, Canada
+Product: HP LaserJet Pro M148fdw
+Organization: Eastlink HSI
+
+IP: 69.70.90.10
+Location: Boucherville, Canada
+Product: HP LaserJet M1536dnf MFP
+Organization: SAC Affaires VL
+
+IP: 108.173.206.246
+Location: Calgary, Canada
+Product: HP LaserJet MFP M130nw
+Organization: TELUS-FIBRE-CLGRAB31
+
+IP: 207.216.59.80
+Location: Richmond, Canada
+Product: HP LaserJet MFP M130fw
+Organization: TELUS-FIBRE-VANCBC05
+
+IP: 173.181.46.194
+Location: Revelstoke, Canada
+Product: HP PageWide Pro 477dw MFP
+Organization: TELUS-FIBRE-RVSTBC01
+
+IP: 162.217.232.147
+Location: Vancouver, Canada
+Product: HP Color LaserJet M452nw
+Organization: Shaw Cable Systems LTD
+
+IP: 208.89.48.36
+Location: Toronto, Canada
+Product: HP LaserJet M806
+Organization: THE WIRE INC.
+
+IP: 209.121.26.139
+Location: Pitt Meadows, Canada
+Product: HP LaserJet MFP M130fw
+Organization: TELUS-FIBRE-SRRYBC02
+
+IP: 75.159.59.141
+Location: Calgary, Canada
+Product: HP LaserJet M209dw
+Organization: TELUS-DSL-CLGRAB10
+
+IP: 50.99.105.79
+Location: Westlock, Canada
+Product: HP LaserJet Pro MFP 3101-3108
+Organization: TELUS-FIBRE-WLOCAB01
+
+IP: 24.157.103.194
+Location: Brampton, Canada
+Product: HP Color LaserJet M254dw
+Organization: Cogeco Cable Canada LP
+
+IP: 50.99.121.204
+Location: Calgary, Canada
+Product: HP Color LaserJet MFP M377dw
+Organization: TELUS Communications Inc.
+
+IP: 207.35.6.94
+Location: Toronto, Canada
+Product: HP LaserJet Pro MFP 4101
+Organization: Bell Canada
+
+IP: 162.157.203.25
+Location: Edmonton, Canada
+Product: HP Color LaserJet MFP M476dn
+Organization: TELUS-FIBRE-EDTNABXL
+
+IP: 173.212.68.254
+Location: Halifax, Canada
+Product: HP LaserJet Pro MFP 4101
+Organization: Eastlink HSI
+
+IP: 75.159.33.227
+Location: Stony Plain, Canada
+Product: HP LaserJet MFP M130fn
+Organization: TELUS-DSL-CLGRAB06
+
+IP: 198.166.38.110
+Location: Edmonton, Canada
+Product: HP LaserJet MFP M130nw
+Organization: TELUS-FIBRE-EDTNABXL
+
+IP: 70.28.90.144
+Location: Montréal, Canada
+Product: HP LaserJet M102w
+Organization: Bell Canada
+
+IP: 206.116.133.230
+Location: Burnaby, Canada
+Product: HP LaserJet M209dw
+Organization: TELUS-DSL-RCMDBC01
+
+IP: 207.216.217.111
+Location: Coquitlam, Canada
+Product: HP LaserJet MFP M130fw
+Organization: TELUS-DSL-VANCBC01
+
+IP: 24.157.97.22
+Location: Brampton, Canada
+Product: HP Color LaserJet Pro M478f-9f
+Organization: Cogeco Cable Canada LP
+
+IP: 24.224.241.95
+Location: Carbonear, Canada
+Product: HP LaserJet Professional P1606dn
+Organization: Eastlink HSI
+
+IP: 68.182.36.53
+Location: Vancouver, Canada
+Product: HP Color LaserJet M452dw
+Organization: TELUS Communications Inc.
+
+IP: 75.159.215.54
+Location: Calgary, Canada
+Product: HP Color LaserJet MFP M283fdw
+Organization: TELUS-DSL-CLGRAB12
+
+IP: 174.7.103.113
+Location: Vancouver, Canada
+Product: HP LaserJet MFP M130fw
+Organization: Shaw Communications Inc.
+
+IP: 184.162.124.94
+Location: Québec, Canada
+Product: HP LaserJet MFP M28w
+Organization: Videotron Ltee
+
+IP: 69.156.133.164
+Location: Montréal, Canada
+Product: HP LaserJet 400 M401dne
+Organization: Bell Canada
+
+IP: 207.102.218.98
+Location: Vancouver, Canada
+Product: HP Color LaserJet MFP M477fnw
+Organization: TELUS-FIBRE-VANCBC03
+
+IP: 75.154.188.150
+Location: Cranbrook, Canada
+Product: HP LaserJet M203dw
+Organization: TELUS-FIBRE-CRBKBC01
+
+IP: 99.227.36.2
+Location: Toronto, Canada
+Product: HP LaserJet MFP M426fdw
+Organization: Rogers Cable Inc. YM
+
+IP: 64.228.88.48
+Location: Hamilton, Canada
+Product: HP Color LaserJet CM4540 MFP
+Organization: Bell DSL Internet Ontario
+
+IP: 24.224.211.45
+Location: Charlottetown, Canada
+Product: HP LaserJet MFP M139w
+Organization: Eastlink HSI
+
+IP: 108.173.182.136
+Location: Calgary, Canada
+Product: HP LaserJet MFP M234dw
+Organization: TELUS-FIBRE-EDTNABXG
+
+IP: 207.102.230.51
+Location: New Westminster, Canada
+Product: HP LaserJet MFP M426fdw
+Organization: TELUS Communications Inc.
+
+IP: 207.6.168.39
+Location: Maple Ridge, Canada
+Product: HP LaserJet MFP M130fw
+Organization: TELUS-FIBRE-SRRYBC02
+
+IP: 142.134.130.61
+Location: Hartland, Canada
+Product: HP LaserJet P2055 Series
+Organization: Bell Canada
+
+IP: 173.238.122.222
+Location: Fort Erie, Canada
+Product: HP LaserJet MFP M234dw
+Organization: Cogeco Cable Inc.
+
+IP: 199.102.207.147
+Location: Gatineau, Canada
+Product: HP LaserJet Professional M1212nf MFP
+Organization: Cogeco Connexion inc
+
+IP: 66.203.189.214
+Location: Tavistock, Canada
+Product: HP LaserJet M209dw
+Organization: Execulink Telecom Inc.
+
